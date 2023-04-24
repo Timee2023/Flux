@@ -2096,13 +2096,6 @@ and (min-height: 1366px) {
 }
 
 
-/* IPad Pro, Landscape */
-@media only screen
-and (min-width: 1360x)
-and (min-height: 1020px)
-and (orientation: landscape) {
-    /* Home Page MQ */
-
     .data-tiles {
         font-size: 2.7rem;
     }
